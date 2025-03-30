@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chylman/hws2/static/css/main.b5ef32d9.css",
-    "main.js": "/chylman/hws2/static/js/main.9a25c111.js",
-    "static/js/787.66cb4309.chunk.js": "/chylman/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/chylman/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/chylman/hws2/index.html",
-    "main.b5ef32d9.css.map": "/chylman/hws2/static/css/main.b5ef32d9.css.map",
-    "main.9a25c111.js.map": "/chylman/hws2/static/js/main.9a25c111.js.map",
-    "787.66cb4309.chunk.js.map": "/chylman/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hws2/static/css/main.b5ef32d9.css",
+    "main.js": "/hws2/static/js/main.6eff1198.js",
+    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws2/index.html",
+    "main.b5ef32d9.css.map": "/hws2/static/css/main.b5ef32d9.css.map",
+    "main.6eff1198.js.map": "/hws2/static/js/main.6eff1198.js.map",
+    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5ef32d9.css",
-    "static/js/main.9a25c111.js"
+    "static/js/main.6eff1198.js"
   ]
 }
