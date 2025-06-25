@@ -2,6 +2,12 @@
     border-radius: 3px;
     border: none;
     padding: 5px 24px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Montserrat", sans-serif;
 }
 
 .disabled {
@@ -12,6 +18,7 @@
 
 .secondary {
     color: #0066CC;
+    background-color: #FFFFFF;
     border: 1px solid #0066CC;
 }
 
@@ -25,22 +32,33 @@
 }
 
 .default:hover {
+    cursor: pointer;
+    background-color: #0080FF;
 }
 
 .red:hover {
+    background-color: #FF1A47;
+    cursor: pointer;
+
 }
 
 .secondary:hover {
+    background-color: #E5F0FA;
+    cursor: pointer;
+
 }
 
 
 .default:active {
+    background-color: #0059B2;
 }
 
 .secondary:active {
+    background-color: #C9E5FF;
 }
 
 .red:active {
+    background-color: #B21232;
 }
 
 .button:disabled {
